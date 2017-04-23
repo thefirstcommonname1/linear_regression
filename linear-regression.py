@@ -2,7 +2,7 @@ import numpy as np
 x = [0,0.5,1,2,4,3,5]
 y = [50,70,72,78,92,82,100]
 N = len(y)
-alpha = 0.001
+alpha = 0.0001
 theta0 = 0
 theta1 = 0
 
